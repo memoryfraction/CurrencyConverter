@@ -14,7 +14,7 @@ A currency rate package based on exchangeratesapi.io using C# && .Net.
 
 2 download src, and fill in the "Access_Key" at the below position.
 
-![image-20210531164252440](C:\Users\rongf\AppData\Roaming\Typora\typora-user-images\image-20210531164252440.png)
+![image-20210531164252440](https://github.com/memoryfraction/CurrencyConverter/blob/main/resource/img/access_key.png?raw=true)
 
 
 
