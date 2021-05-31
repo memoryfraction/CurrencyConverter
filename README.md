@@ -8,7 +8,7 @@ A currency rate package based on exchangeratesapi.io using C# && .Net.
 
 ### How to use?
 
-1 Go to https://exchangeratesapi.io/pricing/, and click "sign up", you will be able to get an Access_Key.
+1 Go to https://exchangeratesapi.io/pricing/, and click "Get Free Api Key", you will be able to get an Access_Key.
 
 
 
